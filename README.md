@@ -1,0 +1,2 @@
+# Ishtar
+My AGI playground
