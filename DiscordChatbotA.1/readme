@@ -1,0 +1,4 @@
+This bot was created following the instructions found at https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
+
+What that site was either missing or I missed in reading it was I needed to run $npm install discord.js. Before that I was getting a "Cannot read property 'ID' of undefined" error. 
+The image I used for Ishtar is source from https://www.ancient-origins.net/myths-legends-asia/love-battlefield-legend-ishtar-first-goddess-love-and-war-008301 which apparently got it from https://landofgoddesses.wordpress.com/2013/06/27/ishtar/ but I can't access that page to confirm it or trace further.
