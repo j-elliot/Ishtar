@@ -1,6 +1,8 @@
 # Ishtar
 My AGI playground
 
+Born: 12 April, 2020
+
 As a learning experience, I will be attemting here to build Artificial General Intelligence. I don't know much yet, but I am beginning with an assumption that success will be achieved by uniting various stratagies together into a whole that is greater than the sum of its parts. Versioning will be done by age. Easter Sunday, 12 April 2020, will be day zero, and Ishtar's version will be its age at that commit. Maybe years.days
 
 I'm calling Ishtar it for now, as programs have no meaningful sex or gender, but Ishtar's namesake is the Mesopotamian goddess, so I'll probably revert to she/her/hers at some point. 
