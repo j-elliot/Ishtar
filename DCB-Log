@@ -1,0 +1,15 @@
+{"message":"Connected","level":"info"}
+{"message":"Logged in as: ","level":"info"}
+{"message":"Ishtar - (700328308348289114)","level":"info"}
+{"message":"Running message subroutine with Run?","level":"info"}
+{"message":"Responding... Run?","level":"info"}
+{"message":"Running message subroutine with Run?","level":"info"}
+{"message":"Responding... Run?","level":"info"}
+{"message":"Running message subroutine with foo","level":"info"}
+{"message":"Responding... foo","level":"info"}
+{"message":"Running message subroutine with foo","level":"info"}
+{"message":"Responding... foo","level":"info"}
+{"message":"Running message subroutine with bar","level":"info"}
+{"message":"Responding... bar","level":"info"}
+{"message":"Running message subroutine with bar","level":"info"}
+{"message":"Responding... bar","level":"info"}

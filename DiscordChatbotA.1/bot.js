@@ -29,12 +29,12 @@ function respond(dm)
 
   if(dm.userID != bot.id) {
 
-    fs.writeFileSync('../textCom/input.json', JSON.stringify(dm));
+    fs.writeFileSync('textCom/input.json', JSON.stringify(dm));
 
     for(i = 500; i < 3000; i += 500){
 
       try {
-        var rawdata = fs.readFileSync('../textCom/output.json');
+        var rawdata = fs.readFileSync('textCom/output.json');
         var response = JSON.parse(rawdata);
       }
       catch(err) {

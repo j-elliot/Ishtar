@@ -23,7 +23,7 @@ class Verbal:
             inputCheck = {"time": 0}
 
             try:
-                with open("../textCom/input.json", "r") as readFile:
+                with open("textCom/input.json", "r") as readFile:
                     inputCheck = json.load(readFile)
             except FileNotFoundError:
                 print("Nothing to hear.")
@@ -49,4 +49,4 @@ class Verbal:
 r1 = Verbal()
 
 while(True):
-    r1.dumpResponse(r1.getInput("../textCom/input.json"), "../textCom/output.json")
+    r1.dumpResponse(r1.getInput("textCom/input.json"), "textCom/output.json")
